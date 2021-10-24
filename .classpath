@@ -12,5 +12,17 @@
 	<classpathentry kind="lib" path="log4jLibrary/commons-lang3-3.8.1.jar"/>
 	<classpathentry kind="lib" path="log4jLibrary/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="log4jLibrary/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/httpclient5-5.0.1.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/httpcore5-5.0.1.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/jarchivelib-1.0.0.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="webDriverManagerLibrary/webdrivermanager-4.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
